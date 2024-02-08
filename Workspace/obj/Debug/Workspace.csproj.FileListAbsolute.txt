@@ -1,0 +1,7 @@
+D:\ceng\C#\.net8\MaskeTakip\Workspace\bin\Debug\Workspace.exe.config
+D:\ceng\C#\.net8\MaskeTakip\Workspace\bin\Debug\Workspace.exe
+D:\ceng\C#\.net8\MaskeTakip\Workspace\bin\Debug\Workspace.pdb
+D:\ceng\C#\.net8\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.AssemblyReference.cache
+D:\ceng\C#\.net8\MaskeTakip\Workspace\obj\Debug\Workspace.csproj.CoreCompileInputs.cache
+D:\ceng\C#\.net8\MaskeTakip\Workspace\obj\Debug\Workspace.exe
+D:\ceng\C#\.net8\MaskeTakip\Workspace\obj\Debug\Workspace.pdb
